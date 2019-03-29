@@ -1,0 +1,29 @@
+{
+  "name": "nextjs-storybook-ie11",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "storybook": "start-storybook -s ./ -p 9001",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@storybook/react": "^5.0.5",
+    "chart.js": "^2.8.0",
+    "next": "^8.0.3",
+    "react": "^16.8.6",
+    "react-chartjs-2": "^2.7.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idw111/nextjs-storybook-ie11.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/idw111/nextjs-storybook-ie11/issues"
+  },
+  "homepage": "https://github.com/idw111/nextjs-storybook-ie11#readme",
+  "description": ""
+}
