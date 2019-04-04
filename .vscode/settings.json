@@ -1,0 +1,15 @@
+{
+	"editor.tabSize": 4,
+	"editor.formatOnSave": true,
+	"prettier.tabWidth": 4,
+	"prettier.useTabs": true,
+	"prettier.singleQuote": true,
+	"prettier.printWidth": 200,
+	"files.exclude": {
+		"**/node_modules": true
+	},
+	"search.exclude": {
+		"**/node_modules": true,
+		"**/public": true
+	}
+}
