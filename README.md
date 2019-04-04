@@ -26,5 +26,5 @@ works in IE11
 -   add fake next module to .storybook/
     -   .storybook/next/link.js
     -   .storybook/next/router.js
--   replace next/link and next/router with fake module in webpack
+-   replace next/link and next/router with fake module in custom storybook webpack
     -   .storybook/webpack.config.js
