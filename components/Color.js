@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
+import { withRouter } from 'next/router';
 
 const Color = ({ hex = '#000000' }) => (
 	<div className="color">
